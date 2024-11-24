@@ -15,4 +15,4 @@ if fortune_number == 2:
 if fortune_number== 3:
     fortune_text = 'You will adopt the best dog! Go visit the shelter today!'
 
-print(f'{fortune_text} The number of dogs you should adopt is {lucky_number}')
+print(f'{fortune_text} The number of dogs you should adopt today is {lucky_number}')
